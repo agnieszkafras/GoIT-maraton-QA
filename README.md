@@ -2,7 +2,7 @@
 
 20.03.2023 - 23.03.2023
 
-### GoIT-maraton-QA:
+### GoIT - maraton QA:
 * Czat z mentorami i innymi uczestnikami maratonu
 * Samouczki video
 * Zadania domowe sprawdzane przez mentorów
